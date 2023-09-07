@@ -1,0 +1,64 @@
+.container1{
+    /* background: red; */
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    /* z-index: 1; */
+    /* padding: 20px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.container2{
+    background: #EFFBF8;
+    width: 80%;
+    height: 200vh;
+    right: 0px;
+    position:absolute;
+}
+
+.sub-container2{
+    margin: 20px;
+
+}
+
+body{
+    margin: 0;
+}
+
+.tempat-profil{
+background-color: #A4A5FF;
+width: 210px;
+height: 210px;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#foto-profil{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.tempat-tombol{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+ 
+}
+
+.tombol{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+}
+
+.tombol:hover{
+    color: aqua;
+    background-color: aquamarine;
+}
