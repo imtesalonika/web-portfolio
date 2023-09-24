@@ -30,13 +30,13 @@
 }
 
 
-/* #home{
+#home{
     height: 100vh;
     background-color: #EFFBF8;
     display: flex;
     justify-content: center;
     gap: 80px;
-} */
+}
 
 .sub-home{
     margin-left: 50px;
@@ -313,14 +313,14 @@ h1{
     width: 2px;
     background-color: #130F49;
 }
-/* .div-foto {
+.div-foto {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     padding-right: 50px;
-} */
+}
 
 .kotak-hitam {
     width: 550px;
